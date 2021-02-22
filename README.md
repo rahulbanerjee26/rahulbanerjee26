@@ -1,5 +1,4 @@
 # Hi there 👋
-<hr>
 
 <h3> 🔭 I’m currently working on </h3>
 
