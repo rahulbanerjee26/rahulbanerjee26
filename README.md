@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello World <img src = "https://github.com/rahulbanerjee26/rahulbanerjee26/blob/main/hFZ.gif" width = 50px>
 
 <h3> 🔭 I’m currently working on </h3>
 
