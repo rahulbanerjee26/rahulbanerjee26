@@ -16,10 +16,13 @@ Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :s
   
 - Technical Blog Posts
 - Projects related to ML/Data Science
-- Building Cool APIs
+- Building APIs
 
 <h3> 💬 Talk to me about </h3>
 
+- Cool Python libraries like Streamlit, Pandas Profiling etc
+- Web Scraping 
+- Programming Humor
 - Pokemon
 - Shows to binge watch on Netflix 
 - Soccer :soccer:
