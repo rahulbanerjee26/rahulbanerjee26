@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+<hr>
 
-<!--
-**rahulbanerjee26/rahulbanerjee26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🔭 I’m currently working on </h3>
 
-Here are some ideas to get you started:
+- <a href= 'https://rahul1999.medium.com/'> Medium Blog Posts </a>
+- <a href = 'https://www.realpythonproject.com/'> WordPress Blog </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🌱 I’m currently learning  </h3>
+
+- Data Science
+- Data Engineering
+- Azure and AWS
+
+<h3> 👯 I’m looking to collaborate on </h3>
+  
+- Technical Blog Posts
+- Projects related to ML/Data Science
+- Building Cool APIs
+
+<h3> 💬 Talk to me about </h3>
+
+- Pokemon
+- Shows to binge watch on Netflix 
+- Soccer :soccer:
+ 
+ 
