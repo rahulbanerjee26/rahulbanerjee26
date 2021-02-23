@@ -10,7 +10,7 @@ Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rahulbanerjee26" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rahulbanerjee26&compact=True"/>
 </a>
 
 <h3> 🔭 I’m currently working on </h3>
