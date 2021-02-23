@@ -1,5 +1,8 @@
 # Hello World <img src = "https://github.com/rahulbanerjee26/rahulbanerjee26/blob/main/hFZ.gif" width = 50px>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
+
 Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile:
+
 
 <h3> 🔭 I’m currently working on </h3>
 
