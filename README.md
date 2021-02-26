@@ -1,10 +1,10 @@
 # Hello World <img src = "https://github.com/rahulbanerjee26/rahulbanerjee26/blob/main/hFZ.gif" width = 50px>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee261)
 
-<img align= 'left' src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" href='https://www.linkedin.com/in/rahulbanerjee2699/'/>
-<br>
+<div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: Connect withe me
 
-<div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile:
+<img align= 'left' src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" href='https://www.linkedin.com/in/rahulbanerjee2699/'/>
+<br/ >
 
 - 🔭 I’m currently working on my <a href= 'https://rahul1999.medium.com/'> Medium Profile </a> and my <a href = 'https://www.realpythonproject.com/'> WordPress Blog </a>
 
