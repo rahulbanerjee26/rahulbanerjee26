@@ -12,7 +12,6 @@
 <img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" href = 'https://github.com/rahulbanerjee26'>
 <br>
 <br>
-<br>
 
 <h2> About Me :computer: </h2>
 
