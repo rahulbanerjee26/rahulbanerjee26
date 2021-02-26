@@ -3,12 +3,15 @@
 
 <div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: Connect with me
 <br>
-
+<br>
+<br>
+  
 <img width = '48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" href='https://www.linkedin.com/in/rahulbanerjee2699/'/>
 <img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
 <img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/wordpress.svg" href = 'https://realpythonproject.com'>
 <img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
 <img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg" href = 'https://twitter.com/rahulbanerjee99'>
+<br>
 <br>
 <br>
 
