@@ -3,9 +3,15 @@
 
 Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile:
 
+- <h4> 🔭 I’m currently working on my <a href= 'https://rahul1999.medium.com/'> Medium Profile </a> and my <a href = 'https://www.realpythonproject.com/'> WordPress Blog </a>
 
+- <h4> 🌱 I’m currently learning Data Science, Data Engineering, Azure and AWS </h4>
 
-## My Wakatime Stats ⌚
+- <h4> 👯 I’m looking to collaborate on Technical Blog Posts , Projects related to ML/Data Science , Building APIs
+
+- <h4> 💬 Talk to me about Cool Python libraries like Streamlit, Pandas Profiling etc , Web Scraping , Programming Humor , Pokemon , Shows to binge watch on Netflix, Soccer :soccer:
+
+## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rahulbanerjee26&compact=True"/>
 </a>
@@ -18,30 +24,10 @@ Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
 </a>
 
-<h3> 🔭 I’m currently working on </h3>
+## My Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- <a href= 'https://rahul1999.medium.com/'> Medium Blog Posts </a>
-- <a href = 'https://www.realpythonproject.com/'> WordPress Blog </a>
 
-<h3> 🌱 I’m currently learning  </h3>
 
-- Data Science
-- Data Engineering
-- Azure and AWS
-
-<h3> 👯 I’m looking to collaborate on </h3>
-  
-- Technical Blog Posts
-- Projects related to ML/Data Science
-- Building APIs
-
-<h3> 💬 Talk to me about </h3>
-
-- Cool Python libraries like Streamlit, Pandas Profiling etc
-- Web Scraping 
-- Programming Humor
-- Pokemon
-- Shows to binge watch on Netflix 
-- Soccer :soccer:
- 
  
