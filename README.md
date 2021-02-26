@@ -5,16 +5,18 @@
 <br>
 <br>
 <br>
-  
-<img width = '48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" href='https://www.linkedin.com/in/rahulbanerjee2699/'/>
-<img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
-<img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/wordpress.svg" href = 'https://realpythonproject.com'>
-<img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
-<img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg" href = 'https://twitter.com/rahulbanerjee99'>
-<img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" href = 'https://github.com/rahulbanerjee26'>
+
+<img width = '36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" href='https://www.linkedin.com/in/rahulbanerjee2699/'/>
+<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
+<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/wordpress.svg" href = 'https://realpythonproject.com'>
+<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
+<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg" href = 'https://twitter.com/rahulbanerjee99'>
+<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" href = 'https://github.com/rahulbanerjee26'>
 <br>
 <br>
 <br>
+
+<h2> About Me :computer: </h2>
 
 - 🔭 I’m currently working on my <a href= 'https://rahul1999.medium.com/'> Medium Profile </a> and my <a href = 'https://www.realpythonproject.com/'> WordPress Blog </a>
 
@@ -38,7 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
 </a>
 
-## My Blog Posts
+## My Blog Posts :books:
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Accuracy, Recall, Precision, F1 Scores, and Confusion Matrices](https://www.realpythonproject.com/understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices)
 - [How to use 2020 Google Keyword and Twitter Hashtag trends to build word clouds](https://www.realpythonproject.com/how-to-use-2020-google-keyword-and-twitter-hashtag-trends-to-build-word-clouds/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-2020-google-keyword-and-twitter-hashtag-trends-to-build-word-clouds)
