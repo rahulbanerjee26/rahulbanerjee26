@@ -11,6 +11,7 @@
 <img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/wordpress.svg" href = 'https://realpythonproject.com'>
 <img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
 <img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg" href = 'https://twitter.com/rahulbanerjee99'>
+<img  width='48px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" href = 'https://github.com/rahulbanerjee26'>
 <br>
 <br>
 <br>
