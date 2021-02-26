@@ -5,7 +5,8 @@
 <br>
 
 <img align= 'left' src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" href='https://www.linkedin.com/in/rahulbanerjee2699/'/>
-<br/ >
+<br>
+<br>
 
 - 🔭 I’m currently working on my <a href= 'https://rahul1999.medium.com/'> Medium Profile </a> and my <a href = 'https://www.realpythonproject.com/'> WordPress Blog </a>
 
