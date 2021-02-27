@@ -40,6 +40,11 @@
 
 ## My Blog Posts :books:
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Accuracy, Recall, Precision, F1 Scores, and Confusion Matrices](https://www.realpythonproject.com/understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices)
+- [How to use 2020 Google Keyword and Twitter Hashtag trends to build word clouds](https://www.realpythonproject.com/how-to-use-2020-google-keyword-and-twitter-hashtag-trends-to-build-word-clouds/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-2020-google-keyword-and-twitter-hashtag-trends-to-build-word-clouds)
+- [How to Start Freelancing as a programmer on Upwork](https://www.realpythonproject.com/how-to-start-freelancing-as-a-programmer-on-upwork/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-start-freelancing-as-a-programmer-on-upwork)
+- [How to build a web app to download Youtube videos in 30 lines of code](https://www.realpythonproject.com/how-to-build-a-web-app-to-download-youtube-videos-in-30-lines-of-code/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-a-web-app-to-download-youtube-videos-in-30-lines-of-code)
+- [15 Funny Memes for Software Developers](https://www.realpythonproject.com/15-funny-memes-for-software-developers/?utm_source=rss&utm_medium=rss&utm_campaign=15-funny-memes-for-software-developers)
 <!-- BLOG-POST-LIST:END -->
 
 
