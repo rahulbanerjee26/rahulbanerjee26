@@ -4,12 +4,17 @@
 <div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>
 <br>
-<img width = '36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" href='https://www.linkedin.com/in/rahulbanerjee2699/'/>
-<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
-<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/wordpress.svg" href = 'https://realpythonproject.com'>
-<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" href = 'https://rahul1999.medium.com/'>
-<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg" href = 'https://twitter.com/rahulbanerjee99'>
-<img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" href = 'https://github.com/rahulbanerjee26'>
+<a href='https://www.linkedin.com/in/rahulbanerjee2699/'> <img width = '36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" /> </a>
+  
+<a href = 'https://rahul1999.medium.com/'> <img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" > </a>
+
+<a href = 'https://realpythonproject.com'> <img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/wordpress.svg"> </a>
+
+<a href = 'https://rahul1999.medium.com/'> <img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg"> </a>
+
+<a href = 'https://twitter.com/rahulbanerjee99'> <img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg"> </a>
+
+<a href = 'https://github.com/rahulbanerjee26'> <img  width='36px' align= 'left' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg"> </a>
 <br>
 <br>
 
