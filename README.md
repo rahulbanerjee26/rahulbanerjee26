@@ -54,11 +54,11 @@
 
 ## My Blog Posts :books:
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Accuracy, Recall, Precision, F1 Scores, and Confusion Matrices](https://www.realpythonproject.com/understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-accuracy-recall-precision-f1-scores-and-confusion-matrices)
-- [How to use 2020 Google Keyword and Twitter Hashtag trends to build word clouds](https://www.realpythonproject.com/how-to-use-2020-google-keyword-and-twitter-hashtag-trends-to-build-word-clouds/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-2020-google-keyword-and-twitter-hashtag-trends-to-build-word-clouds)
-- [How to Start Freelancing as a programmer on Upwork](https://www.realpythonproject.com/how-to-start-freelancing-as-a-programmer-on-upwork/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-start-freelancing-as-a-programmer-on-upwork)
-- [How to build a web app to download Youtube videos in 30 lines of code](https://www.realpythonproject.com/how-to-build-a-web-app-to-download-youtube-videos-in-30-lines-of-code/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-a-web-app-to-download-youtube-videos-in-30-lines-of-code)
-- [15 Funny Memes for Software Developers](https://www.realpythonproject.com/15-funny-memes-for-software-developers/?utm_source=rss&utm_medium=rss&utm_campaign=15-funny-memes-for-software-developers)
+- [A Free Tool to take your GitHub Profile to the Next Level](https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-next-level-dd877a304d74?source=rss-6e3dfc7b6a86------2)
+- [Using Python to work with Amazon Dynamo DB](https://towardsdatascience.com/using-python-to-work-with-amazon-dynamo-db-b00dc07c158?source=rss-6e3dfc7b6a86------2)
+- [Working with User-Defined Functions in SQL Server](https://towardsdatascience.com/working-with-user-defined-functions-in-sql-server-4325ddb99ce4?source=rss-6e3dfc7b6a86------2)
+- [How to Build a UI for your Model in 2021 using Streamlit](https://towardsdatascience.com/how-to-build-a-ui-for-your-model-in-2021-using-streamlit-3d1656fce3b8?source=rss-6e3dfc7b6a86------2)
+- [How to use Seaborn for Data Visualization](https://towardsdatascience.com/how-to-use-seaborn-for-data-visualization-4c61fc488ec1?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
