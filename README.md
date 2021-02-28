@@ -54,7 +54,7 @@
 
 ## My Blog Posts :books:
 <!-- BLOG-POST-LIST:START -->
-- [How to take your GitHub Profile to the Next Level](https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-next-level-dd877a304d74?source=rss-6e3dfc7b6a86------2)
+- [How to create a GitHub Profile README using this web app](https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-next-level-dd877a304d74?source=rss-6e3dfc7b6a86------2)
 - [Using Python to work with Amazon Dynamo DB](https://towardsdatascience.com/using-python-to-work-with-amazon-dynamo-db-b00dc07c158?source=rss-6e3dfc7b6a86------2)
 - [Working with User-Defined Functions in SQL Server](https://towardsdatascience.com/working-with-user-defined-functions-in-sql-server-4325ddb99ce4?source=rss-6e3dfc7b6a86------2)
 - [How to Build a UI for your Model in 2021 using Streamlit](https://towardsdatascience.com/how-to-build-a-ui-for-your-model-in-2021-using-streamlit-3d1656fce3b8?source=rss-6e3dfc7b6a86------2)
