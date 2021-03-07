@@ -67,6 +67,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26&theme=synthwave" />
 </a>
 
+<h2> My Blog Posts </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Profile README Generator](https://pub.towardsai.net/github-profile-readme-generator-db655e341017?source=rss-6e3dfc7b6a86------2)
 - [How to create a GitHub Profile README using this web app](https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-next-level-dd877a304d74?source=rss-6e3dfc7b6a86------2)
