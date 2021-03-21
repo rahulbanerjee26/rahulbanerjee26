@@ -70,10 +70,10 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day1 — Nonlocal and Global Keywords in Python](https://medium.com/daily-programming-tips/day1-nonlocal-and-global-keywords-in-python-e663e6aa0141?source=rss-6e3dfc7b6a86------2)
 - [12 Pip Commands for Python Developers](https://betterprogramming.pub/12-pip-commands-for-python-developers-6e73ea927971?source=rss-6e3dfc7b6a86------2)
 - [How to parallelize for loops in Python and Work with Shared Dictionaries](https://towardsdatascience.com/how-to-parallelize-for-loops-in-python-and-work-with-shared-dictionaries-76a5560254cd?source=rss-6e3dfc7b6a86------2)
 - [GitHub Profile README Generator](https://pub.towardsai.net/github-profile-readme-generator-db655e341017?source=rss-6e3dfc7b6a86------2)
-- [How to create a GitHub Profile README using this web app](https://towardsdatascience.com/a-free-tool-to-take-your-github-profile-to-the-next-level-dd877a304d74?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
