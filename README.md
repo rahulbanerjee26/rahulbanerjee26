@@ -46,8 +46,6 @@
 
 - 🌱 I’m currently learning Data Science, Data Engineering, Azure and AWS
 
-- 🌱 I’m currently learning Data Science, Data Engineering, Azure and AWS 
-
 - 👯 I’m looking to collaborate on Technical Blog Posts , Projects related to ML/Data Science , Building APIs 
 
 - 💬 Talk to me about Cool Python libraries like Streamlit, Pandas Profiling etc , Web Scraping , Programming Humor , Pokemon , Shows to binge watch on Netflix, Soccer :soccer: 
