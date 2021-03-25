@@ -68,11 +68,11 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day5 — The terms Hashable and Mutability](https://medium.com/daily-programming-tips/day5-the-terms-hashable-and-mutability-732acb762e7d?source=rss-6e3dfc7b6a86------2)
 - [#Day4 — Sets and Frozensets in Python](https://medium.com/daily-programming-tips/day4-sets-and-frozensets-in-python-54b908109bbd?source=rss-6e3dfc7b6a86------2)
 - [#Day3 — Break, Pass, and Continue in Python](https://medium.com/daily-programming-tips/day3-break-pass-and-continue-in-python-88710816b581?source=rss-6e3dfc7b6a86------2)
 - [How to Benchmark functions in Python](https://towardsdatascience.com/how-to-benchmark-functions-in-python-ed10522053a2?source=rss-6e3dfc7b6a86------2)
 - [#Day2 — List/Dictionary Comprehension in Python](https://medium.com/daily-programming-tips/day2-list-dictionary-comprehension-in-python-829a8a2ecf37?source=rss-6e3dfc7b6a86------2)
-- [#Day1 — Nonlocal and Global Keywords in Python](https://medium.com/daily-programming-tips/day1-nonlocal-and-global-keywords-in-python-e663e6aa0141?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
