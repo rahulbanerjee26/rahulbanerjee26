@@ -67,6 +67,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26&theme=synthwave" />
 </a>
 
+<h2> My Blog Posts </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [#Day12 — Anonymous Functions in Python](https://medium.com/daily-programming-tips/day12-anonymous-functions-in-python-91b8f6b1a291?source=rss-6e3dfc7b6a86------2)
 - [#Day11- Instance Methods, Class Methods, and Static Methods](https://medium.com/daily-programming-tips/day11-instance-methods-class-methods-and-static-methods-9bf1cd440ea3?source=rss-6e3dfc7b6a86------2)
