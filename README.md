@@ -68,11 +68,11 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day12 — Anonymous Functions in Python](https://medium.com/daily-programming-tips/day12-anonymous-functions-in-python-91b8f6b1a291?source=rss-6e3dfc7b6a86------2)
 - [#Day11- Instance Methods, Class Methods, and Static Methods](https://medium.com/daily-programming-tips/day11-instance-methods-class-methods-and-static-methods-9bf1cd440ea3?source=rss-6e3dfc7b6a86------2)
 - [#Day10 — Walrus Operator in Python](https://medium.com/daily-programming-tips/day10-walrus-operator-in-python-cb48d62c0e77?source=rss-6e3dfc7b6a86------2)
 - [#Day9 — Pass by Value, Pass by Reference, and Python’s Pass by Object Reference](https://medium.com/daily-programming-tips/day9-pass-by-value-pass-by-reference-and-pythons-pass-by-object-reference-58f484fba652?source=rss-6e3dfc7b6a86------2)
 - [Dunder/Magic Methods in Python](https://towardsdatascience.com/dunder-magic-methods-in-python-3d6453f6311b?source=rss-6e3dfc7b6a86------2)
-- [#Day8 — Datetime CheatSheet in Python](https://medium.com/daily-programming-tips/day8-datetime-cheatsheet-in-python-2a5905309772?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
