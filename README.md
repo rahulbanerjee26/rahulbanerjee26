@@ -70,11 +70,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day14 — Exceptions in Python](https://medium.com/daily-programming-tips/day14-exceptions-in-python-1423d4d18daa?source=rss-6e3dfc7b6a86------2)
 - [My stats 14 days after starting a Modified Version of 100 days of Code](https://medium.com/daily-programming-tips/my-stats-14-days-after-starting-a-modified-version-of-100-days-of-code-309df027d194?source=rss-6e3dfc7b6a86------2)
 - [#Day13 — Map, Filter, Sorted, and Reduce in Python](https://medium.com/daily-programming-tips/day13-map-filter-sorted-and-reduce-in-python-38decd9552f6?source=rss-6e3dfc7b6a86------2)
 - [#Day12 — Anonymous Functions in Python](https://medium.com/daily-programming-tips/day12-anonymous-functions-in-python-91b8f6b1a291?source=rss-6e3dfc7b6a86------2)
 - [#Day11- Instance Methods, Class Methods, and Static Methods](https://medium.com/daily-programming-tips/day11-instance-methods-class-methods-and-static-methods-9bf1cd440ea3?source=rss-6e3dfc7b6a86------2)
-- [#Day10 — Walrus Operator in Python](https://medium.com/daily-programming-tips/day10-walrus-operator-in-python-cb48d62c0e77?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
