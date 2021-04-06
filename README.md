@@ -70,11 +70,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day16 — Positional Arguments, Keyword Arguments and the terms “args” and “kwargs”](https://medium.com/daily-programming-tips/day16-positional-arguments-keyword-arguments-and-the-terms-args-and-kwargs-32196c2f3df7?source=rss-6e3dfc7b6a86------2)
 - [#Day15 — The Fastest way to combine Lists in Python](https://medium.com/daily-programming-tips/day15-the-fastest-way-to-combine-lists-in-python-ee6ab848fd41?source=rss-6e3dfc7b6a86------2)
 - [#Day14 — Exceptions in Python](https://medium.com/daily-programming-tips/day14-exceptions-in-python-1423d4d18daa?source=rss-6e3dfc7b6a86------2)
 - [My stats 14 days after starting a Modified Version of 100 days of Code](https://medium.com/daily-programming-tips/my-stats-14-days-after-starting-a-modified-version-of-100-days-of-code-309df027d194?source=rss-6e3dfc7b6a86------2)
 - [#Day13 — Map, Filter, Sorted, and Reduce in Python](https://medium.com/daily-programming-tips/day13-map-filter-sorted-and-reduce-in-python-38decd9552f6?source=rss-6e3dfc7b6a86------2)
-- [#Day12 — Anonymous Functions in Python](https://medium.com/daily-programming-tips/day12-anonymous-functions-in-python-91b8f6b1a291?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
