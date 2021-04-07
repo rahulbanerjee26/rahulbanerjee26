@@ -71,10 +71,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [#Day17 — Fastest way to format strings in Python](https://medium.com/daily-programming-tips/day17-fastest-way-to-format-strings-in-python-7f52a6380f30?source=rss-6e3dfc7b6a86------2)
+- [How To Design and Develop APIs That Developers Will Love to Use](https://betterprogramming.pub/how-to-design-and-develop-apis-that-developers-will-love-to-use-4bbd859d9fe5?source=rss-6e3dfc7b6a86------2)
 - [#Day16 — Positional Arguments, Keyword Arguments and the terms “args” and “kwargs”](https://medium.com/daily-programming-tips/day16-positional-arguments-keyword-arguments-and-the-terms-args-and-kwargs-32196c2f3df7?source=rss-6e3dfc7b6a86------2)
 - [#Day15 — The Fastest way to combine Lists in Python](https://medium.com/daily-programming-tips/day15-the-fastest-way-to-combine-lists-in-python-ee6ab848fd41?source=rss-6e3dfc7b6a86------2)
 - [#Day14 — Exceptions in Python](https://medium.com/daily-programming-tips/day14-exceptions-in-python-1423d4d18daa?source=rss-6e3dfc7b6a86------2)
-- [My stats 14 days after starting a Modified Version of 100 days of Code](https://medium.com/daily-programming-tips/my-stats-14-days-after-starting-a-modified-version-of-100-days-of-code-309df027d194?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
