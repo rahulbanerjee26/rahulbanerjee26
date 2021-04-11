@@ -70,11 +70,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day21 — How to use requests to interact with APIs in Python](https://medium.com/daily-programming-tips/day21-how-to-use-requests-to-interact-with-apis-in-python-380c2238cc7?source=rss-6e3dfc7b6a86------2)
 - [#Day20 — Naming Conventions in Python](https://medium.com/daily-programming-tips/day20-naming-conventions-in-python-6df48b4abab4?source=rss-6e3dfc7b6a86------2)
 - [#Day19 — Comparing the performance of sorting vs sorted and reverse vs reversed](https://medium.com/daily-programming-tips/day19-comparing-the-performance-of-sorting-vs-sorted-and-reverse-vs-reversed-3beeced436f2?source=rss-6e3dfc7b6a86------2)
 - [#Day18 — Any() and All() in Python](https://medium.com/daily-programming-tips/day18-any-and-all-in-python-dc069fa5b26b?source=rss-6e3dfc7b6a86------2)
 - [#Day17 — Fastest way to format strings in Python](https://medium.com/daily-programming-tips/day17-fastest-way-to-format-strings-in-python-7f52a6380f30?source=rss-6e3dfc7b6a86------2)
-- [How To Design and Develop APIs That Developers Will Love to Use](https://betterprogramming.pub/how-to-design-and-develop-apis-that-developers-will-love-to-use-4bbd859d9fe5?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
