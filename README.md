@@ -72,9 +72,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [#Day23 — How to Scrape Websites using Requests and Beautiful Soup Part1](https://medium.com/daily-programming-tips/day23-how-to-scrape-websites-using-requests-and-beautiful-soup-part1-1a587575a801?source=rss-6e3dfc7b6a86------2)
 - [#Day22 — Cheatsheet for the Random Module in Python](https://medium.com/daily-programming-tips/day22-cheatsheet-for-the-random-module-in-python-39e519158f64?source=rss-6e3dfc7b6a86------2)
+- [How To Create a Twitter Bot Using Python and Zapier](https://betterprogramming.pub/how-to-create-a-twitter-bot-using-python-and-zapier-4f855093069f?source=rss-6e3dfc7b6a86------2)
 - [#Day21 — How to use requests to interact with APIs in Python](https://medium.com/daily-programming-tips/day21-how-to-use-requests-to-interact-with-apis-in-python-380c2238cc7?source=rss-6e3dfc7b6a86------2)
 - [#Day20 — Naming Conventions in Python](https://medium.com/daily-programming-tips/day20-naming-conventions-in-python-6df48b4abab4?source=rss-6e3dfc7b6a86------2)
-- [#Day19 — Comparing the performance of sorting vs sorted and reverse vs reversed](https://medium.com/daily-programming-tips/day19-comparing-the-performance-of-sorting-vs-sorted-and-reverse-vs-reversed-3beeced436f2?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
