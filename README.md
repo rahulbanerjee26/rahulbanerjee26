@@ -70,11 +70,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day30 — From Python to JavaScript — The Basics Part 3](https://medium.com/daily-programming-tips/day30-from-python-to-javascript-the-basics-part-3-d411bf0f5b34?source=rss-6e3dfc7b6a86------2)
 - [#Day29 — From Python to JavaScript — The Basics Part 2](https://medium.com/daily-programming-tips/day29-from-python-to-javascript-the-basics-part-2-627fb459b9ef?source=rss-6e3dfc7b6a86------2)
 - [My stats 28 days after starting a Modified Version of 100 days of Code](https://medium.com/daily-programming-tips/my-stats-28-days-after-starting-a-modified-version-of-100-days-of-code-482aed2ed06b?source=rss-6e3dfc7b6a86------2)
 - [#Day28— From Python to JavaScript — The Basics Part 1](https://medium.com/daily-programming-tips/day27-from-python-to-javascript-the-basics-part-1-7ad027fd6f48?source=rss-6e3dfc7b6a86------2)
 - [#Day27 — Fastest Way to Combine Dictionaries](https://medium.com/daily-programming-tips/day27-fastest-way-to-combine-dictionaries-52ba521c1026?source=rss-6e3dfc7b6a86------2)
-- [#Day26 — Assert Statements in Python and When NOT to use them](https://medium.com/daily-programming-tips/day26-assert-statements-in-python-and-when-not-to-use-them-b1e657f2b67e?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
