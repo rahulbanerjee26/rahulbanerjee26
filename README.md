@@ -70,11 +70,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [#Day31 — From Python to JavaScript — The Basics Part 4](https://medium.com/daily-programming-tips/day31-from-python-to-javascript-the-basics-part-4-60205c10f18e?source=rss-6e3dfc7b6a86------2)
 - [How to Build a Web App to Transcribe Audio Using Python and AssemblyAI](https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-audio-using-python-and-assemblyai-18f197253fd8?source=rss-6e3dfc7b6a86------2)
 - [#Day30 — From Python to JavaScript — The Basics Part 3](https://medium.com/daily-programming-tips/day30-from-python-to-javascript-the-basics-part-3-d411bf0f5b34?source=rss-6e3dfc7b6a86------2)
 - [#Day29 — From Python to JavaScript — The Basics Part 2](https://medium.com/daily-programming-tips/day29-from-python-to-javascript-the-basics-part-2-627fb459b9ef?source=rss-6e3dfc7b6a86------2)
 - [My stats 28 days after starting a Modified Version of 100 days of Code](https://medium.com/daily-programming-tips/my-stats-28-days-after-starting-a-modified-version-of-100-days-of-code-482aed2ed06b?source=rss-6e3dfc7b6a86------2)
-- [#Day28— From Python to JavaScript — The Basics Part 1](https://medium.com/daily-programming-tips/day27-from-python-to-javascript-the-basics-part-1-7ad027fd6f48?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 
