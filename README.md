@@ -56,6 +56,11 @@
 ![Metrics](https://metrics.lecoq.io/rahulbanerjee26?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 <h2> My Blog Posts </h2>
 <!-- BLOG-POST-LIST:START -->
+- [#Day31 — From Python to JavaScript — The Basics Part 4](https://medium.com/daily-programming-tips/day31-from-python-to-javascript-the-basics-part-4-60205c10f18e?source=rss-6e3dfc7b6a86------2)
+- [How to Build a Web App to Transcribe Audio Using Python and AssemblyAI](https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-audio-using-python-and-assemblyai-18f197253fd8?source=rss-6e3dfc7b6a86------2)
+- [#Day30 — From Python to JavaScript — The Basics Part 3](https://medium.com/daily-programming-tips/day30-from-python-to-javascript-the-basics-part-3-d411bf0f5b34?source=rss-6e3dfc7b6a86------2)
+- [#Day29 — From Python to JavaScript — The Basics Part 2](https://medium.com/daily-programming-tips/day29-from-python-to-javascript-the-basics-part-2-627fb459b9ef?source=rss-6e3dfc7b6a86------2)
+- [My stats 28 days after starting a Modified Version of 100 days of Code](https://medium.com/daily-programming-tips/my-stats-28-days-after-starting-a-modified-version-of-100-days-of-code-482aed2ed06b?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
