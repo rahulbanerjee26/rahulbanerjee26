@@ -56,6 +56,7 @@
 ![Metrics](https://metrics.lecoq.io/rahulbanerjee26?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <h2> My Blog Posts </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [#Day31 — From Python to JavaScript — The Basics Part 4](https://medium.com/daily-programming-tips/day31-from-python-to-javascript-the-basics-part-4-60205c10f18e?source=rss-6e3dfc7b6a86------2)
 - [How to Build a Web App to Transcribe Audio Using Python and AssemblyAI](https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-audio-using-python-and-assemblyai-18f197253fd8?source=rss-6e3dfc7b6a86------2)
