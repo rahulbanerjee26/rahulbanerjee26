@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [A cheat sheet for working with JSON Data in Python — Python and Data Science for Everyone](https://medium.com/daily-programming-tips/a-cheat-sheet-for-working-with-json-data-in-python-python-and-data-science-for-everyone-7db46fa6f29b?source=rss-6e3dfc7b6a86------2)
 - [How to Authenticate using Keys, BasicAuth, OAuth2 in Python](https://towardsdatascience.com/how-to-authenticate-using-keys-basicauth-oauth2-in-python-94fddec609cc?source=rss-6e3dfc7b6a86------2)
 - [You Need To Know Compiled/Interpreted, Static/Dynamic, and Strong/Weak Typing](https://towardsdatascience.com/you-need-to-know-compiled-interpreted-static-dynamic-and-strong-weak-typing-2e7f76c9dc3d?source=rss-6e3dfc7b6a86------2)
 - [Avoid these Gotchas/Errors related to parameters and arguments in Python](https://towardsdatascience.com/avoid-these-gotchas-errors-related-to-parameters-and-arguments-in-python-6bf4dbec9183?source=rss-6e3dfc7b6a86------2)
 - [#Day31 — From Python to JavaScript — The Basics Part 4](https://medium.com/daily-programming-tips/day31-from-python-to-javascript-the-basics-part-4-60205c10f18e?source=rss-6e3dfc7b6a86------2)
-- [How to Build a Web App to Transcribe Audio Using Python and AssemblyAI](https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-audio-using-python-and-assemblyai-18f197253fd8?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
