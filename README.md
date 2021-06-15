@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Balance Chemical Equations in Python using Constraint Optimization (PuLP)](https://towardsdatascience.com/how-to-balance-chemical-equations-in-python-using-constraint-optimization-pulp-1d7409fbe52b?source=rss-6e3dfc7b6a86------2)
 - [How to get a JSON file of your Medium Stats and create a Dashboard using Streamlit](https://medium.com/daily-programming-tips/how-to-get-a-json-file-of-your-medium-stats-and-create-a-dashboard-using-streamlit-d58f0ed32ad0?source=rss-6e3dfc7b6a86------2)
 - [JavaScript: Do you know the fastest way to iterate over arrays, objects?](https://medium.com/daily-programming-tips/javascript-do-you-know-the-fastest-way-to-iterate-over-arrays-objects-5bb64713d9f0?source=rss-6e3dfc7b6a86------2)
 - [A cheat sheet for working with JSON Data in JavaScript](https://medium.com/daily-programming-tips/a-cheat-sheet-for-working-with-json-data-in-javascript-bdd8de505333?source=rss-6e3dfc7b6a86------2)
 - [A cheat sheet for working with JSON Data in Python — Python and Data Science for Everyone](https://medium.com/daily-programming-tips/a-cheat-sheet-for-working-with-json-data-in-python-python-and-data-science-for-everyone-7db46fa6f29b?source=rss-6e3dfc7b6a86------2)
-- [How to Authenticate using Keys, BasicAuth, OAuth2 in Python](https://towardsdatascience.com/how-to-authenticate-using-keys-basicauth-oauth2-in-python-94fddec609cc?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
