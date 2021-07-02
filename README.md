@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [A cheat sheet for JavaScript’s Axios to consume APIs in JavaScript](https://medium.com/daily-programming-tips/a-cheat-sheet-for-javascripts-axios-to-consume-apis-in-javascript-b37e37bad919?source=rss-6e3dfc7b6a86------2)
+- [A cheat sheet for JavaScript’s fetch API — Some common use cases](https://medium.com/daily-programming-tips/a-cheat-sheet-for-javascripts-fetch-api-some-common-use-cases-34338a057abf?source=rss-6e3dfc7b6a86------2)
 - [From JavaScript to TypeScript Crash Course/CheatSheet : Basics](https://medium.com/daily-programming-tips/from-javascript-to-typescript-crash-course-cheatsheet-basics-11f5b2f2acff?source=rss-6e3dfc7b6a86------2)
 - [3 Ways to Store and Read Credentials Locally in Python](https://towardsdatascience.com/3-ways-to-store-and-read-credentials-locally-in-python-5195fc1881b6?source=rss-6e3dfc7b6a86------2)
 - [How to Balance Chemical Equations in Python using Constraint Optimization (PuLP)](https://towardsdatascience.com/how-to-balance-chemical-equations-in-python-using-constraint-optimization-pulp-1d7409fbe52b?source=rss-6e3dfc7b6a86------2)
-- [How to get a JSON file of your Medium Stats and create a Dashboard using Streamlit](https://medium.com/daily-programming-tips/how-to-get-a-json-file-of-your-medium-stats-and-create-a-dashboard-using-streamlit-d58f0ed32ad0?source=rss-6e3dfc7b6a86------2)
-- [JavaScript: Do you know the fastest way to iterate over arrays, objects?](https://medium.com/daily-programming-tips/javascript-do-you-know-the-fastest-way-to-iterate-over-arrays-objects-5bb64713d9f0?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
