@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Transcribing Twilio recordings using the Twilio API and AssemblyAI](https://towardsdatascience.com/transcribing-twilio-recordings-using-the-twilio-api-and-assemblyai-4daf25fa32f0?source=rss-6e3dfc7b6a86------2)
 - [4 packages to generate UUIDs in JavaScript](https://medium.com/daily-programming-tips/4-packages-to-generate-uuids-in-javascript-3b056d056d6d?source=rss-6e3dfc7b6a86------2)
 - [How To Safely Work With Nested Objects in JavaScript](https://betterprogramming.pub/how-to-safely-work-with-nested-objects-in-javascript-aed39fb8bad2?source=rss-6e3dfc7b6a86------2)
 - [Getting Started with Lodash in JavaScript](https://medium.com/daily-programming-tips/getting-started-with-lodash-in-javascript-9df4d6380f51?source=rss-6e3dfc7b6a86------2)
 - [5 Simple Steps to Package an Existing TypeScript Project & Release it to NPM](https://javascript.plainenglish.io/5-simple-steps-to-package-an-existing-typescript-project-release-it-to-npm-e0497f7af376?source=rss-6e3dfc7b6a86------2)
-- [Some Experiments using GitHub Copilot with Python](https://towardsdatascience.com/some-experiments-using-github-copilot-with-python-90f8065fb72e?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
