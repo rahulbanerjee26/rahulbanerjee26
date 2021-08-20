@@ -59,10 +59,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Intro to Flask — Micro Web Framework](https://medium.com/daily-programming-tips/intro-to-flask-micro-web-framework-c9535bc991c1?source=rss-6e3dfc7b6a86------2)
+- [Automate JavaScript Code Linting and Formatting in 5 Simple Steps](https://betterprogramming.pub/automate-javascript-code-linting-and-formatting-in-5-simple-steps-9e7a5751fe7f?source=rss-6e3dfc7b6a86------2)
 - [Transcribing Twilio recordings using the Twilio API and AssemblyAI](https://towardsdatascience.com/transcribing-twilio-recordings-using-the-twilio-api-and-assemblyai-4daf25fa32f0?source=rss-6e3dfc7b6a86------2)
 - [4 packages to generate UUIDs in JavaScript](https://medium.com/daily-programming-tips/4-packages-to-generate-uuids-in-javascript-3b056d056d6d?source=rss-6e3dfc7b6a86------2)
 - [How To Safely Work With Nested Objects in JavaScript](https://betterprogramming.pub/how-to-safely-work-with-nested-objects-in-javascript-aed39fb8bad2?source=rss-6e3dfc7b6a86------2)
-- [Getting Started with Lodash in JavaScript](https://medium.com/daily-programming-tips/getting-started-with-lodash-in-javascript-9df4d6380f51?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
