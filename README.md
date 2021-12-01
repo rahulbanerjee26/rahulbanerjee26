@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Set Up Automated Deployments for Multiple Apps Under a Single Github Repository in Heroku](https://betterprogramming.pub/set-up-automated-deployments-for-multiple-apps-under-a-single-github-repository-in-heroku-42f887f49a0a?source=rss-6e3dfc7b6a86------2)
 - [Gentle Introduction to Linear Programming](https://medium.com/daily-programming-tips/gentle-introduction-to-linear-programming-c07b28d2f616?source=rss-6e3dfc7b6a86------2)
 - [How To Expose Your Local Host URL as a Public URL](https://betterprogramming.pub/how-to-expose-your-local-host-url-as-a-public-url-30ea4ff79c0e?source=rss-6e3dfc7b6a86------2)
 - [Intro to Webhooks and How to Receive them with Python](https://towardsdatascience.com/intro-to-webhooks-and-how-to-receive-them-with-python-d5f6dd634476?source=rss-6e3dfc7b6a86------2)
 - [Using the BitBucket API](https://medium.com/daily-programming-tips/using-the-bitbucket-api-5c95eb3373ac?source=rss-6e3dfc7b6a86------2)
-- [How To Use APIs With React Functional Components](https://betterprogramming.pub/how-to-use-apis-with-react-functional-components-f4d36bd0be1?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
