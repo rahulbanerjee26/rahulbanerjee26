@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [The 4 Types of Side Hustles for Software Developers](https://medium.com/daily-programming-tips/the-4-types-of-side-hustles-for-software-developers-b5b322cf94a3?source=rss-6e3dfc7b6a86------2)
 - [10 Things Every Software Developer Should Know to Stay Productive](https://betterprogramming.pub/10-things-every-software-developer-should-know-to-stay-productive-bc91b9f100f4?source=rss-6e3dfc7b6a86------2)
 - [5 Tips to Get Hired as a Software Developer in 2022](https://betterprogramming.pub/5-tips-to-get-hired-as-a-software-developer-in-2022-126afcd54ee1?source=rss-6e3dfc7b6a86------2)
 - [Writing Better Tests with AI and GitHub Copilot](https://medium.com/daily-programming-tips/writing-better-tests-with-ai-and-github-copilot-68cafae09ba3?source=rss-6e3dfc7b6a86------2)
 - [Set Up Automated Deployments for Multiple Apps Under a Single Github Repository in Heroku](https://betterprogramming.pub/set-up-automated-deployments-for-multiple-apps-under-a-single-github-repository-in-heroku-42f887f49a0a?source=rss-6e3dfc7b6a86------2)
-- [Gentle Introduction to Linear Programming](https://medium.com/daily-programming-tips/gentle-introduction-to-linear-programming-c07b28d2f616?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
