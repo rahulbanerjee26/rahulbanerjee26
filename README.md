@@ -58,7 +58,7 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Living With Imposter Syndrome as a Software Developer](https://betterprogramming.pub/living-with-imposter-syndrome-as-a-software-developer-ff93c055db38?source=rss-6e3dfc7b6a86------2)
+- [Living With Impostor Syndrome as a Software Developer](https://betterprogramming.pub/living-with-imposter-syndrome-as-a-software-developer-ff93c055db38?source=rss-6e3dfc7b6a86------2)
 - [Scrum Terms You Should Be Familiar With as a Software Developer](https://betterprogramming.pub/scrum-terms-you-should-be-familiar-with-as-a-software-developer-fd7502ccb304?source=rss-6e3dfc7b6a86------2)
 - [The 4 Types of Side Hustles for Software Developers](https://medium.com/daily-programming-tips/the-4-types-of-side-hustles-for-software-developers-b5b322cf94a3?source=rss-6e3dfc7b6a86------2)
 - [10 Things Every Software Developer Should Know to Stay Productive](https://betterprogramming.pub/10-things-every-software-developer-should-know-to-stay-productive-bc91b9f100f4?source=rss-6e3dfc7b6a86------2)
