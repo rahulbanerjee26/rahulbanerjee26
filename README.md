@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to randomly select an item from a list?](https://medium.com/daily-programming-tips/how-to-randomly-select-an-item-from-a-list-4f935998c27a?source=rss-6e3dfc7b6a86------2)
 - [Why and How should you learn a new programming language?](https://medium.com/daily-programming-tips/why-and-how-should-you-learn-a-new-programming-language-8cb4feca9926?source=rss-6e3dfc7b6a86------2)
 - [How to Declare Object Literals in TypeScript the Right Way](https://betterprogramming.pub/how-to-declare-object-literals-in-typescript-the-right-way-63783365aa85?source=rss-6e3dfc7b6a86------2)
 - [Living With Impostor Syndrome as a Software Developer](https://betterprogramming.pub/living-with-imposter-syndrome-as-a-software-developer-ff93c055db38?source=rss-6e3dfc7b6a86------2)
 - [Scrum Terms You Should Be Familiar With as a Software Developer](https://betterprogramming.pub/scrum-terms-you-should-be-familiar-with-as-a-software-developer-fd7502ccb304?source=rss-6e3dfc7b6a86------2)
-- [The 4 Types of Side Hustles for Software Developers](https://medium.com/daily-programming-tips/the-4-types-of-side-hustles-for-software-developers-b5b322cf94a3?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
