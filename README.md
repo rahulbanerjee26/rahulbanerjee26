@@ -58,11 +58,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Concept of Triple CCC: Currying, Closure, Callback in JavaScript](https://betterprogramming.pub/the-concept-of-triple-ccc-currying-closure-callback-in-javascript-47da06df9bb4?source=rss-6e3dfc7b6a86------2)
 - [How to Share API Changes With Your Team](https://betterprogramming.pub/how-to-share-api-changes-with-your-team-d5753df38c38?source=rss-6e3dfc7b6a86------2)
 - [How to Make an AI-Assisted Phone Service With Twilio](https://betterprogramming.pub/how-to-make-an-ai-assisted-phone-service-with-twilio-98c6d0425a8d?source=rss-6e3dfc7b6a86------2)
 - [How to read and write files in JavaScript](https://medium.com/daily-programming-tips/how-to-read-and-write-files-in-javascript-b9ed3f2821f8?source=rss-6e3dfc7b6a86------2)
 - [How To Make Your Own Livestreaming Service With api.video](https://betterprogramming.pub/how-to-make-your-own-livestreaming-service-with-api-video-e7f70127d0a4?source=rss-6e3dfc7b6a86------2)
-- [How To Visualize Time-Series Data in JavaScript With Chart.js and InfluxDB](https://betterprogramming.pub/how-to-visualize-time-series-data-in-javascript-with-chart-js-and-influxdb-7e0a9496d77e?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
