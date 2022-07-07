@@ -7,6 +7,7 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
+[![wakatime](https://wakatime.com/badge/user/a7f49ac0-396b-43df-bdbd-01099e48c983.svg)](https://wakatime.com/@a7f49ac0-396b-43df-bdbd-01099e48c983)
 
 </p>
 <div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
