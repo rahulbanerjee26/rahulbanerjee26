@@ -54,11 +54,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Medium Partner Program and Ezoic Earnings for September](https://medium.com/daily-programming-tips/medium-partner-program-and-ezoic-earnings-for-september-5acf093e4bf7?source=rss-6e3dfc7b6a86------2)
 - [How To Use Python To Post on Popular Blogging Websites](https://betterprogramming.pub/how-to-use-python-to-post-on-popular-blogging-websites-bae27407335f?source=rss-6e3dfc7b6a86------2)
 - [Advanced SQL: Going Beyond the Basics](https://towardsdatascience.com/advanced-sql-going-beyond-the-basics-bbcae047fe7e?source=rss-6e3dfc7b6a86------2)
 - [The Concept of Triple CCC: Currying, Closure, Callback in JavaScript](https://betterprogramming.pub/the-concept-of-triple-ccc-currying-closure-callback-in-javascript-47da06df9bb4?source=rss-6e3dfc7b6a86------2)
 - [How to Share API Changes With Your Team](https://betterprogramming.pub/how-to-share-api-changes-with-your-team-d5753df38c38?source=rss-6e3dfc7b6a86------2)
-- [How to Make an AI-Assisted Phone Service With Twilio](https://betterprogramming.pub/how-to-make-an-ai-assisted-phone-service-with-twilio-98c6d0425a8d?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
