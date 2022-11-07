@@ -56,9 +56,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Easily Manage Multiple Node Versions](https://medium.com/daily-programming-tips/how-to-easily-manage-multiple-node-versions-efc51df94ce9?source=rss-6e3dfc7b6a86------2)
 - [Do you know these Software Engineering Terms?](https://medium.com/daily-programming-tips/do-you-know-these-software-engineering-terms-e95a0e0e837d?source=rss-6e3dfc7b6a86------2)
-- [Medium Partner Program and Ezoic Earnings for September](https://medium.com/daily-programming-tips/medium-partner-program-and-ezoic-earnings-for-september-5acf093e4bf7?source=rss-6e3dfc7b6a86------2)
 - [How To Use Python To Post on Popular Blogging Websites](https://betterprogramming.pub/how-to-use-python-to-post-on-popular-blogging-websites-bae27407335f?source=rss-6e3dfc7b6a86------2)
 - [Advanced SQL: Going Beyond the Basics](https://towardsdatascience.com/advanced-sql-going-beyond-the-basics-bbcae047fe7e?source=rss-6e3dfc7b6a86------2)
+- [The Concept of Triple CCC: Currying, Closure, Callback in JavaScript](https://betterprogramming.pub/the-concept-of-triple-ccc-currying-closure-callback-in-javascript-47da06df9bb4?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
