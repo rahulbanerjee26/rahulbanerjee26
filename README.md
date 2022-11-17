@@ -54,11 +54,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Send and Receive Data in Flask](https://medium.com/daily-programming-tips/how-to-send-and-receive-data-in-flask-d95aeb5d2cb8?source=rss-6e3dfc7b6a86------2)
 - [How to Store Credentials as Environment Variables and Read in JavaScript](https://medium.com/daily-programming-tips/how-to-store-credentials-as-environment-variables-and-read-in-javascript-e1251ce5dc17?source=rss-6e3dfc7b6a86------2)
 - [How to Easily Manage Multiple Node Versions](https://medium.com/daily-programming-tips/how-to-easily-manage-multiple-node-versions-efc51df94ce9?source=rss-6e3dfc7b6a86------2)
 - [Do you know these Software Engineering Terms?](https://medium.com/daily-programming-tips/do-you-know-these-software-engineering-terms-e95a0e0e837d?source=rss-6e3dfc7b6a86------2)
 - [How To Use Python To Post on Popular Blogging Websites](https://betterprogramming.pub/how-to-use-python-to-post-on-popular-blogging-websites-bae27407335f?source=rss-6e3dfc7b6a86------2)
-- [Advanced SQL: Going Beyond the Basics](https://towardsdatascience.com/advanced-sql-going-beyond-the-basics-bbcae047fe7e?source=rss-6e3dfc7b6a86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
